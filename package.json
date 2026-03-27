@@ -11,7 +11,8 @@
     "dev:shell": "docker compose exec openclaw bash"
   },
   "dependencies": {
-    "@chrysb/alphaclaw": "latest"
+    "@chrysb/alphaclaw": "latest",
+    "yahoo-finance2": "^2.x.x"
   },
   "engines": {
     "node": ">=22.12.0"
